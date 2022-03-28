@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>TOP 3 Best Movies of 2021</title>
+</head>
+<body style="margin-left: 30%; margin-right: 30%">
+<h1 id="the-power-of-the-dog">The Power of the Dog</h1>
+<div style="border: 1px solid gray; padding: 5px; border-radius: 10px; height: 400px">
+    <img height="400px" style="float:left; padding-right: 10px" src="https://upload.wikimedia.org/wikipedia/en/6/6d/The_Power_of_the_Dog_%28film%29.jpg" alt="The Power of the Dog film movie poster"/>
+    <div style="width:100%">
+        <div style="font-weight: bold; font-size: 17px;">About</div>
+        <hr>
+        <div>Charismatic rancher Phil Burbank inspires fear and awe in those around him. When his brother brings home a new wife and her son, Phil torments them until he finds himself exposed to the possibility of love.</div>
+        <hr>
+        <div style="font-weight: bold; font-size: 17px; margin-top: 10px">Director</div>
+        <hr>
+        <div>Jane Campion</div>
+        <hr>
+        <div style="font-weight: bold; font-size: 17px; margin-top: 10px">Writers</div>
+        <hr>
+        <div>Jane Campion, Thomas Savage</div>
+        <hr>
+        <div style="font-weight: bold; font-size: 17px; margin-top: 10px">Stars</div>
+        <hr>
+        <div>Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons</div>
+        <hr>
+        <div style="font-weight: bold; font-size: 17px; margin-top: 10px">Date released</div>
+        <hr>
+        <div>09/04/2021</div>
+    </div>
+</div>
+<h2>Storyline</h2>
+<hr>
+<p style="line-height: 1.5; font-size: 17px; letter-spacing: 1px; text-align: justify">
+    Severe, pale-eyed, handsome, Phil Burbank is brutally beguiling. All of Phil's romance, power and fragility is trapped in the past and in the land: He can castrate a bull calf with two swift slashes of his knife; he swims naked in the river, smearing his body with mud. He is a cowboy as raw as his hides. The year is 1925. The Burbank brothers are wealthy ranchers in Montana. At the Red Mill restaurant on their way to market, the brothers meet Rose, the widowed proprietress, and her impressionable son Peter. Phil behaves so cruelly he drives them both to tears, revelling in their hurt and rousing his fellow cowhands to laughter - all except his brother George, who comforts Rose then returns to marry her. As Phil swings between fury and cunning, his taunting of Rose takes an eerie form - he hovers at the edges of her vision, whistling a tune she can no longer play. His mockery of her son is more overt, amplified by the cheering of Phil's cowhand disciples. Then Phil appears to take the boy under his wing. Is this latest gesture a softening that leaves Phil exposed, or a plot twisting further into menace?
+</p>
+<h2>Review</h2>
+<hr>
+<div style="font-weight: bold; font-size: 19px">
+    <div style="float: left">Rating: 9/10</div>
+    <div style="text-align: right;">Author: Glenn Kenny</div>
+</div>
+<p style="line-height: 1.5; font-size: 17px; letter-spacing: 1px; text-align: justify">
+    This is a beautifully crafted movie with some individual scenes that are some of the tensest I’ve experienced in some time. Ultimately, I did not feel its themes cohering as much as they might. But, as with any Campion film, there’s a lot of meat on its bones. I’ll be continuing to sample the Venice films over the next few days, and my knowledge of what I’m doing here IS getting stronger with every new one.
+</p>
+</body>
+</html>
