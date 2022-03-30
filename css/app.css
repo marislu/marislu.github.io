@@ -1,4 +1,13 @@
 body {
+    font-family: Arial, serif;
     margin-right: 15%;
     margin-left: 15%;
+}
+
+.home {
+    font-size: 20px;
+}
+
+li {
+    margin-bottom: 40px;
 }
